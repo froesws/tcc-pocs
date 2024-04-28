@@ -1,0 +1,3 @@
+[submodule "node-poc"]
+	path = node-poc
+	url = git@github.com:froesws/tcc-pocs-node-project.git
